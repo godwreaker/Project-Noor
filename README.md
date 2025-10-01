@@ -337,10 +337,10 @@ Bondhu uses the scientifically-validated Big Five personality model to understan
 ```
 
 ### Learning Algorithm
-1. **Initial Assessment**: Big Five questionnaire provides baseline personality profile
-2. **Multi-Modal Learning**: Entertainment choices refine understanding
-3. **Conversation Analysis**: Chat patterns reveal communication preferences
-4. **Continuous Adaptation**: AI responses become increasingly personalized
+1. **Initial Assessment**: Big Five questionnaire provides baseline personality profile.
+2. **Multi-Modal Learning**: Entertainment choices refine understanding.
+3. **Conversation Analysis**: Chat patterns reveal communication preferences.
+4. **Continuous Adaptation**: AI responses become increasingly personalized.
 
 ## 🎮 Entertainment Learning
 
@@ -478,16 +478,20 @@ Bondhu is committed to being open-source to ensure:
 ## 👥 Team
 
 ### Core Team
-- **[Your Name]** - *Founder & Lead Developer* - [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
+- Nawal Fida Laskar
+- Md.Haaris Hussain
+- Raquib
+- Md.Adinul Arfin
+- Shaikh Ahmed
 - **Mental Health Advisory Board** - Licensed therapists and counselors providing guidance
 
 ### Contributors
 Thanks to all our amazing contributors! See the full list [here](CONTRIBUTORS.md).
 
 ### Acknowledgments
-- **Big Five Research**: Based on decades of personality psychology research
-- **Mental Health Community**: Feedback and guidance from mental health professionals
-- **Open Source Community**: Built with amazing open-source tools and libraries
+- **Big Five Research**: Based on decades of personality psychology research.
+- **Mental Health Community**: Feedback and guidance from mental health professionals.
+- **Open Source Community**: Built with amazing open-source tools and libraries.
 
 ## 📞 Support & Contact
 
