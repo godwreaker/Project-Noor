@@ -478,7 +478,11 @@ Bondhu is committed to being open-source to ensure:
 ## 👥 Team
 
 ### Core Team
-- **[Your Name]** - *Founder & Lead Developer* - [GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
+-Nawal Fida Laskar
+-Md.Haaris Hussain
+-Raquib
+-Md.Adinul Arfin
+-Shaikh Ahmed
 - **Mental Health Advisory Board** - Licensed therapists and counselors providing guidance
 
 ### Contributors
